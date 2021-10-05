@@ -21,6 +21,9 @@ The alphabet metagene code allows the analysis of sequences of various alphabets
 * Plot colors
 * Additional options that can be seen using the `-h` option
 
+##### [About FASTA file formats](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp)
+##### [About BED6 format](https://genome.ucsc.edu/FAQ/FAQformat.html#format1)
+
 ## Installation Requirements:
 * R >= 3.3.2
 * gcc >= 9.2.0
