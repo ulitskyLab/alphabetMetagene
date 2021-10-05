@@ -5,7 +5,7 @@ This repository contains generic standalone tools for sequence analysis.
 
 ## What data is it for?
 
-The alphabet metagene code allows the analysis of sequences of various alphabets (DNA/RNA/Protein/other alphabet) and outputs the dynamic proportions of the letter across the binned sequence.
+The alphabet metagene code allows the analysis of sequences of various alphabets (DNA/RNA/Protein/other alphabet) and outputs the proportions of the letter(s) across the binned sequence.
 
 #### Input:
 
