@@ -14,7 +14,7 @@ The alphabet metagene code allows the analysis of sequences of various alphabets
 
 ##### Additional optional input includs:
 
-* File(s) that matches between individual sequences from the first (sample) input fasta file and the other (control) sequence file(s) [Example provided]. If a single fasta file is used for the analysis- ignore this option. If multiple fasta files are used, this would allow a calculation of a paired Wilcoxon rank-sum test instead of a non-paired one (that would be used by default).
+* File(s) that matches between individual sequences from the first (sample) input fasta file and the other (control) sequence file(s) [Example provided](examples). If a single fasta file is used for the analysis- ignore this option. If multiple fasta files are used, this would allow a calculation of a paired Wilcoxon rank-sum test instead of a non-paired one (that would be used by default).
 * Alphabet to consider (DNA is the default).
 * Sample names
 * Title
