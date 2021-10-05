@@ -1,0 +1,10 @@
+control_name1	sample_name3
+control_name2	sample_name4
+control_name3	sample_name8
+control_name4	sample_name9
+control_name5	sample_name10
+control_name6	sample_name2
+control_name7	sample_name1
+control_name8	sample_name5
+control_name9	sample_name7
+control_name10	sample_name6
