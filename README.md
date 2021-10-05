@@ -1,5 +1,5 @@
 # alphabetMetagene
-Analysis of input sequential data
+Analysis of input sequence data.
 
 This repository contains generic standalone tools for sequence analysis.
 
